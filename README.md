@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Prasad Joshi</h1>
-<h3 align="center">A passionate frontend developer and blockchain enthusiast.</h3>
+<h3 align="center">A passionate Web developer and Trurhseeker.</h3>
 <img align="right" width="400" src="https://imgs.search.brave.com/EKCoOvgUDFWpPLvaJEcOdryCaRZU5qKa2inIeOadl8k/rs:fit:851:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5N/Rl80amlUNVJndTNs/a1RobDYtU3FRSGFF/SSZwaWQ9QXBp"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=predatorprasad&label=Profile%20views&color=0e75b6&style=flat" alt="predatorprasad" /> </p>
